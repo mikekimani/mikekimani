@@ -1,3 +1,3 @@
-Web Developer
-Data Analyst
-Full Stack Developer
+Web Developer.
+Data Analyst.
+Full Stack Developer.
